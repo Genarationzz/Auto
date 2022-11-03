@@ -1,0 +1,18 @@
+[
+
+  {
+    "name": "Magic-RO",
+    "description": "Magic-RO",
+    "site": "https://ecro.gg/",
+    "hpAddress": "0x011D0A14",
+    "nameAddress": "0x011D33F8"
+  },
+  {
+    "name": "BigfootRO",
+    "description": "Bigfoot Ragnarok Online",
+    "site": "https://bigfoot-ro.com/",
+    "hpAddress": "0x010DCE10",
+    "nameAddress": "0x010DF5D8"
+  }
+
+]
