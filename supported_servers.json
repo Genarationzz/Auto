@@ -1,8 +1,8 @@
 [
 
   {
-    "name": "Magic-Ro",
-    "description": "Magic-Ro",
+    "name": "Magic-ro",
+    "description": "Magic-ro",
     "site": "https://ecro.gg/",
     "hpAddress": "0x011D0A14",
     "nameAddress": "0x011D33F8"
@@ -14,4 +14,5 @@
     "hpAddress": "0x010DCE10",
     "nameAddress": "0x010DF5D8"
   }
+
 ]
